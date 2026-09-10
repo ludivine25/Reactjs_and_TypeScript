@@ -1,0 +1,26 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "**Séance 3 · en binôme · rendu sur dépôt Git**",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "typescript": "^7.0.2",
+   
+    "vite": "^8.2.2"
+  }
+}
