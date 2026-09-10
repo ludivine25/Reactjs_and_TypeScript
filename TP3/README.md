@@ -72,7 +72,7 @@ Les règles à implémenter :
 | `email` | format `xxx@yyy.zz` |
 | `motDePasse` | 8 caractères minimum |
 | `confirmation` | identique à `motDePasse` |
-| `cgv` | doit valoir `true` |
+| `cgv` | doit valoir `true` |    (cvg = Conditions générales de vente)
 
 `valider` renvoie un objet **vide** quand tout est correct. C'est ce qui permet d'écrire `Object.keys(erreurs).length === 0` pour décider si on continue.
 
